@@ -1,0 +1,19 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  min-width: 800px;
+  background-color: lightgrey;
+ }
+
+.container {
+  border: 1px solid grey;
+  margin-top: -6px;
+  margin-right: -1.2px;
+  background-color:white;
+  display: inline-block;
+  text-align: center;
+}
+
+/* .container:hover {
+  background-color: black;
+} */
